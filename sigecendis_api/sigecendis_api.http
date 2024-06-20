@@ -1,0 +1,6 @@
+@sigecendis_api_HostAddress = http://localhost:5163
+
+GET {{sigecendis_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
